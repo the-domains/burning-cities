@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Burning Cities]]></title>
+        <description><![CDATA[Burning Cities]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Jan 2016 16:04:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b6af3c7-6e29-43a6-8f72-d1f1ebeab123.jpg" alt="Aare at twilight, Autumn 2015" title="">]]></description>
+            <link>undefined31d4a8d0-6061-44e7-ad11-3ea40ceb88ee/index.html</link>
+            <guid isPermaLink="false">31d4a8d0-6061-44e7-ad11-3ea40ceb88ee</guid>
+            <pubDate>Sun, 24 Jan 2016 16:04:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
